@@ -2,7 +2,7 @@ Esse é meu primeiro respositório do Github. :crystal_ball:
 
 ### Comandos básicos do Git
 
-* 'git init': Começa a monitorar a pasta
+* ``git init``: Começa a monitorar a pasta
 * 'git add .': Seleciona arquivo para comitar
 * 'git commit -m' "mensagem" : É necessário descrever o que foi feito para subir
 * 'git log': Carrega informações sobre os commits
